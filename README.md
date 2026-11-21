@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to my GitHub ☺️
+Nice to meet you! I'm Emilie, a CS student at Northwestern.
+
+
+Fun facts:
+- I adore dogs.
+- I knit! I am currently knitting the [Sophie Hood](https://www.ravelry.com/patterns/library/sophie-hood).
+- In my free time, I dance and perform on campus!
 
 <!--
 **Holidawg/holidawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
