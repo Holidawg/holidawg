@@ -1,5 +1,5 @@
 ## Welcome to my GitHub ⋆˚꩜｡
-Nice to meet you! I'm Emilie, a CS student at Northwestern. I love building things that are functional, fun, and, most importantly, things people will **actually** use.
+Hi!! Nice to meet you! I'm Emilie, a CS student at Northwestern. I love building things that are functional, fun, and, most importantly, things people will **actually** use.
 
 **Languages**
 
@@ -18,6 +18,9 @@ Nice to meet you! I'm Emilie, a CS student at Northwestern. I love building thin
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+**Reach out to me :)** [LinkedIn](https://www.linkedin.com/in/emilie-holiday/)
 <h3>Fun facts:</h3>
 
 - I adore dogs.
