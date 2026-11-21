@@ -1,8 +1,9 @@
-## Welcome to my GitHub ☺️
-Nice to meet you! I'm Emilie, a CS student at Northwestern.
+## Welcome to my GitHub ⋆˚꩜｡
+Nice to meet you! I'm Emilie, a CS student at Northwestern. I love building things that are functional, fun, and, most importantly, things people will **actually** use.
 
 
-Fun facts:
+<h3>Fun facts:</h3>
+
 - I adore dogs.
 - I knit! I am currently knitting the [Sophie Hood](https://www.ravelry.com/patterns/library/sophie-hood).
 - In my free time, I dance and perform on campus!
