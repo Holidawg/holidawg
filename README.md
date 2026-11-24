@@ -1,5 +1,5 @@
 ## Welcome to my GitHub ⋆˚꩜｡
-Hi!! Nice to meet you! I'm Emilie, a CS student at Northwestern. I love building things that are functional, fun, and, most importantly, things people will **actually** use.
+Hi! Nice to meet you! I'm Emilie, a student at Northwestern studying CS and Business Institutions, hoping to pursue a career in software engineering or product management. I love building things that are functional, fun, and, most importantly, things people will **actually** use.
 
 **Languages**
 
